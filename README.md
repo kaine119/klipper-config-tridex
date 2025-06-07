@@ -1,0 +1,1 @@
+Files in `idex/` are adapted from @joseph-greiner, specifically [this repo](https://github.com/joseph-greiner/tridex_mods/tree/main) and [this one too](https://github.com/joseph-greiner/Tridex/blob/main/Firmware/IDEX_mode.cfg) (i think)
